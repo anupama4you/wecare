@@ -1,0 +1,365 @@
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=438, y=176), score=0.49449372), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=447, y=166), score=0.35170126), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=423, y=165), score=0.4718876), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=459, y=153), score=0.22938682), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=407, y=146), score=0.41585687), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=468, y=172), score=0.44762912), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=384, y=139), score=0.41185415), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=491, y=252), score=0.49253207), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=328, y=164), score=0.24787328), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=516, y=312), score=0.17926393), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=334, y=217), score=0.46452752), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=425, y=199), score=0.29702008), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=372, y=178), score=0.38115117), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=430, y=267), score=0.074053824), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=359, y=256), score=0.3401973), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=398, y=298), score=0.11337301), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=350, y=257), score=0.1517368)]
+KP: Rectangle(start_point=Point(x=328, y=139), end_point=Point(x=516, y=312))
+Len(kp): 17
+id: 0 coord: Point(x=438, y=176)  score: 0.49449372
+id: 1 coord: Point(x=447, y=166)  score: 0.35170126
+id: 2 coord: Point(x=423, y=165)  score: 0.4718876
+id: 3 coord: Point(x=459, y=153)  score: 0.22938682
+id: 4 coord: Point(x=407, y=146)  score: 0.41585687
+id: 5 coord: Point(x=468, y=172)  score: 0.44762912
+id: 6 coord: Point(x=384, y=139)  score: 0.41185415
+id: 7 coord: Point(x=491, y=252)  score: 0.49253207
+id: 8 coord: Point(x=328, y=164)  score: 0.24787328
+id: 9 coord: Point(x=516, y=312)  score: 0.17926393
+id: 10 coord: Point(x=334, y=217)  score: 0.46452752
+id: 11 coord: Point(x=425, y=199)  score: 0.29702008
+id: 12 coord: Point(x=372, y=178)  score: 0.38115117
+id: 14 coord: Point(x=359, y=256)  score: 0.3401973
+id: 16 coord: Point(x=350, y=257)  score: 0.1517368
+BB: SP: Point(x=328, y=139) EP: Point(x=516, y=312)
+SP: 328 139 EP: 516 312
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=448, y=172), score=0.46581072), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=458, y=165), score=0.41441512), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=437, y=161), score=0.44569162), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=472, y=152), score=0.37953582), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=419, y=138), score=0.4332864), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=477, y=175), score=0.56687605), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=390, y=130), score=0.62807727), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=493, y=251), score=0.36659995), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=330, y=148), score=0.6348461), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=464, y=305), score=0.02708352), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=334, y=208), score=0.5703716), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=434, y=197), score=0.44958255), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=382, y=173), score=0.45498034), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=442, y=264), score=0.24186336), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=360, y=237), score=0.37312275), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=400, y=296), score=0.35457823), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=365, y=272), score=0.21059728)]
+KP: Rectangle(start_point=Point(x=330, y=130), end_point=Point(x=493, y=305))
+Len(kp): 17
+id: 0 coord: Point(x=448, y=172)  score: 0.46581072
+id: 1 coord: Point(x=458, y=165)  score: 0.41441512
+id: 2 coord: Point(x=437, y=161)  score: 0.44569162
+id: 3 coord: Point(x=472, y=152)  score: 0.37953582
+id: 4 coord: Point(x=419, y=138)  score: 0.4332864
+id: 5 coord: Point(x=477, y=175)  score: 0.56687605
+id: 6 coord: Point(x=390, y=130)  score: 0.62807727
+id: 7 coord: Point(x=493, y=251)  score: 0.36659995
+id: 8 coord: Point(x=330, y=148)  score: 0.6348461
+id: 10 coord: Point(x=334, y=208)  score: 0.5703716
+id: 11 coord: Point(x=434, y=197)  score: 0.44958255
+id: 12 coord: Point(x=382, y=173)  score: 0.45498034
+id: 13 coord: Point(x=442, y=264)  score: 0.24186336
+id: 14 coord: Point(x=360, y=237)  score: 0.37312275
+id: 15 coord: Point(x=400, y=296)  score: 0.35457823
+id: 16 coord: Point(x=365, y=272)  score: 0.21059728
+BB: SP: Point(x=330, y=130) EP: Point(x=493, y=305)
+SP: 330 130 EP: 493 305
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=464, y=171), score=0.5187517), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=473, y=161), score=0.25887826), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=456, y=162), score=0.40005234), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=488, y=145), score=0.40946752), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=439, y=142), score=0.32588696), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=487, y=170), score=0.35998535), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=397, y=133), score=0.46871004), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=496, y=250), score=0.46910197), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=338, y=133), score=0.7128522), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=519, y=309), score=0.20534666), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=338, y=197), score=0.5129195), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=437, y=193), score=0.36159256), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=387, y=171), score=0.34957522), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=443, y=254), score=0.31670606), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=360, y=232), score=0.51121557), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=407, y=283), score=0.098930076), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=367, y=269), score=0.2842374)]
+KP: Rectangle(start_point=Point(x=338, y=133), end_point=Point(x=519, y=309))
+Len(kp): 17
+id: 0 coord: Point(x=464, y=171)  score: 0.5187517
+id: 1 coord: Point(x=473, y=161)  score: 0.25887826
+id: 2 coord: Point(x=456, y=162)  score: 0.40005234
+id: 3 coord: Point(x=488, y=145)  score: 0.40946752
+id: 4 coord: Point(x=439, y=142)  score: 0.32588696
+id: 5 coord: Point(x=487, y=170)  score: 0.35998535
+id: 6 coord: Point(x=397, y=133)  score: 0.46871004
+id: 7 coord: Point(x=496, y=250)  score: 0.46910197
+id: 8 coord: Point(x=338, y=133)  score: 0.7128522
+id: 9 coord: Point(x=519, y=309)  score: 0.20534666
+id: 10 coord: Point(x=338, y=197)  score: 0.5129195
+id: 11 coord: Point(x=437, y=193)  score: 0.36159256
+id: 12 coord: Point(x=387, y=171)  score: 0.34957522
+id: 13 coord: Point(x=443, y=254)  score: 0.31670606
+id: 14 coord: Point(x=360, y=232)  score: 0.51121557
+id: 16 coord: Point(x=367, y=269)  score: 0.2842374
+BB: SP: Point(x=338, y=133) EP: Point(x=519, y=309)
+SP: 338 133 EP: 519 309
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=468, y=164), score=0.49389863), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=476, y=157), score=0.35285106), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=459, y=152), score=0.38905743), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=490, y=147), score=0.2344223), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=443, y=131), score=0.32674947), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=488, y=172), score=0.34030575), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=409, y=118), score=0.56387043), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=498, y=245), score=0.43231747), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=343, y=124), score=0.6325836), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=518, y=281), score=0.04046276), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=342, y=182), score=0.5406337), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=427, y=197), score=0.5192286), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=380, y=178), score=0.43035036), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=422, y=265), score=0.1502036), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=358, y=238), score=0.38936222), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=410, y=279), score=0.09156444), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=362, y=254), score=0.11470882)]
+KP: Rectangle(start_point=Point(x=342, y=118), end_point=Point(x=518, y=281))
+Len(kp): 17
+id: 0 coord: Point(x=468, y=164)  score: 0.49389863
+id: 1 coord: Point(x=476, y=157)  score: 0.35285106
+id: 2 coord: Point(x=459, y=152)  score: 0.38905743
+id: 3 coord: Point(x=490, y=147)  score: 0.2344223
+id: 4 coord: Point(x=443, y=131)  score: 0.32674947
+id: 5 coord: Point(x=488, y=172)  score: 0.34030575
+id: 6 coord: Point(x=409, y=118)  score: 0.56387043
+id: 7 coord: Point(x=498, y=245)  score: 0.43231747
+id: 8 coord: Point(x=343, y=124)  score: 0.6325836
+id: 10 coord: Point(x=342, y=182)  score: 0.5406337
+id: 11 coord: Point(x=427, y=197)  score: 0.5192286
+id: 12 coord: Point(x=380, y=178)  score: 0.43035036
+id: 13 coord: Point(x=422, y=265)  score: 0.1502036
+id: 14 coord: Point(x=358, y=238)  score: 0.38936222
+BB: SP: Point(x=342, y=118) EP: Point(x=518, y=281)
+SP: 342 118 EP: 518 281
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=480, y=148), score=0.35635793), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=492, y=139), score=0.4040123), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=472, y=136), score=0.34473017), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=506, y=130), score=0.3810118), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=456, y=112), score=0.34988132), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=494, y=168), score=0.39542595), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=419, y=99), score=0.44592392), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=502, y=245), score=0.6076405), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=351, y=107), score=0.48621455), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=525, y=320), score=0.2816445), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=346, y=175), score=0.46545875), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=431, y=198), score=0.4176953), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=385, y=174), score=0.43162397), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=419, y=270), score=0.14496456), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=363, y=250), score=0.31159285), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=406, y=298), score=0.057977125), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=361, y=266), score=0.2347597)]
+KP: Rectangle(start_point=Point(x=346, y=99), end_point=Point(x=525, y=320))
+Len(kp): 17
+id: 0 coord: Point(x=480, y=148)  score: 0.35635793
+id: 1 coord: Point(x=492, y=139)  score: 0.4040123
+id: 2 coord: Point(x=472, y=136)  score: 0.34473017
+id: 3 coord: Point(x=506, y=130)  score: 0.3810118
+id: 4 coord: Point(x=456, y=112)  score: 0.34988132
+id: 5 coord: Point(x=494, y=168)  score: 0.39542595
+id: 6 coord: Point(x=419, y=99)  score: 0.44592392
+id: 7 coord: Point(x=502, y=245)  score: 0.6076405
+id: 8 coord: Point(x=351, y=107)  score: 0.48621455
+id: 9 coord: Point(x=525, y=320)  score: 0.2816445
+id: 10 coord: Point(x=346, y=175)  score: 0.46545875
+id: 11 coord: Point(x=431, y=198)  score: 0.4176953
+id: 12 coord: Point(x=385, y=174)  score: 0.43162397
+id: 14 coord: Point(x=363, y=250)  score: 0.31159285
+id: 16 coord: Point(x=361, y=266)  score: 0.2347597
+BB: SP: Point(x=346, y=99) EP: Point(x=525, y=320)
+SP: 346 99 EP: 525 320
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=479, y=140), score=0.361106), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=491, y=134), score=0.30391264), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=470, y=123), score=0.28544942), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=509, y=125), score=0.3416123), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=456, y=98), score=0.3616225), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=494, y=161), score=0.43618348), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=421, y=89), score=0.39694124), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=505, y=242), score=0.5280136), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=355, y=101), score=0.48009574), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=519, y=323), score=0.3266965), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=350, y=161), score=0.5984814), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=434, y=198), score=0.5790349), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=388, y=174), score=0.45728585), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=418, y=258), score=0.24355233), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=361, y=225), score=0.52356774), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=407, y=304), score=0.09715323), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=366, y=267), score=0.39274707)]
+KP: Rectangle(start_point=Point(x=350, y=89), end_point=Point(x=519, y=323))
+Len(kp): 17
+id: 0 coord: Point(x=479, y=140)  score: 0.361106
+id: 1 coord: Point(x=491, y=134)  score: 0.30391264
+id: 2 coord: Point(x=470, y=123)  score: 0.28544942
+id: 3 coord: Point(x=509, y=125)  score: 0.3416123
+id: 4 coord: Point(x=456, y=98)  score: 0.3616225
+id: 5 coord: Point(x=494, y=161)  score: 0.43618348
+id: 6 coord: Point(x=421, y=89)  score: 0.39694124
+id: 7 coord: Point(x=505, y=242)  score: 0.5280136
+id: 8 coord: Point(x=355, y=101)  score: 0.48009574
+id: 9 coord: Point(x=519, y=323)  score: 0.3266965
+id: 10 coord: Point(x=350, y=161)  score: 0.5984814
+id: 11 coord: Point(x=434, y=198)  score: 0.5790349
+id: 12 coord: Point(x=388, y=174)  score: 0.45728585
+id: 13 coord: Point(x=418, y=258)  score: 0.24355233
+id: 14 coord: Point(x=361, y=225)  score: 0.52356774
+id: 16 coord: Point(x=366, y=267)  score: 0.39274707
+BB: SP: Point(x=350, y=89) EP: Point(x=519, y=323)
+SP: 350 89 EP: 519 323
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=480, y=130), score=0.4804896), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=490, y=121), score=0.48516202), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=471, y=116), score=0.43092853), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=499, y=112), score=0.34514815), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=458, y=94), score=0.34197053), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=489, y=145), score=0.41929334), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=415, y=79), score=0.5585319), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=497, y=218), score=0.40151495), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=361, y=99), score=0.5806518), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=498, y=294), score=0.31909716), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=348, y=168), score=0.4427024), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=427, y=199), score=0.5219401), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=383, y=177), score=0.5976517), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=424, y=273), score=0.18136434), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=358, y=242), score=0.2871693), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=402, y=342), score=0.37083027), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=359, y=277), score=0.15008742)]
+KP: Rectangle(start_point=Point(x=348, y=79), end_point=Point(x=499, y=342))
+Len(kp): 17
+id: 0 coord: Point(x=480, y=130)  score: 0.4804896
+id: 1 coord: Point(x=490, y=121)  score: 0.48516202
+id: 2 coord: Point(x=471, y=116)  score: 0.43092853
+id: 3 coord: Point(x=499, y=112)  score: 0.34514815
+id: 4 coord: Point(x=458, y=94)  score: 0.34197053
+id: 5 coord: Point(x=489, y=145)  score: 0.41929334
+id: 6 coord: Point(x=415, y=79)  score: 0.5585319
+id: 7 coord: Point(x=497, y=218)  score: 0.40151495
+id: 8 coord: Point(x=361, y=99)  score: 0.5806518
+id: 9 coord: Point(x=498, y=294)  score: 0.31909716
+id: 10 coord: Point(x=348, y=168)  score: 0.4427024
+id: 11 coord: Point(x=427, y=199)  score: 0.5219401
+id: 12 coord: Point(x=383, y=177)  score: 0.5976517
+id: 13 coord: Point(x=424, y=273)  score: 0.18136434
+id: 14 coord: Point(x=358, y=242)  score: 0.2871693
+id: 15 coord: Point(x=402, y=342)  score: 0.37083027
+id: 16 coord: Point(x=359, y=277)  score: 0.15008742
+BB: SP: Point(x=348, y=79) EP: Point(x=499, y=342)
+SP: 348 79 EP: 499 342
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=476, y=113), score=0.41652548), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=486, y=105), score=0.59797454), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=470, y=98), score=0.47953507), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=495, y=93), score=0.374277), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=456, y=74), score=0.48623043), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=497, y=124), score=0.6118833), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=415, y=66), score=0.5377867), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=492, y=195), score=0.44547924), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=362, y=100), score=0.6507975), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=463, y=261), score=0.2105091), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=352, y=165), score=0.58617735), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=433, y=195), score=0.5391454), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=388, y=175), score=0.6136865), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=422, y=272), score=0.31028393), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=361, y=244), score=0.28630063), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=399, y=334), score=0.20725511), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=360, y=295), score=0.323748)]
+KP: Rectangle(start_point=Point(x=352, y=66), end_point=Point(x=497, y=334))
+Len(kp): 17
+id: 0 coord: Point(x=476, y=113)  score: 0.41652548
+id: 1 coord: Point(x=486, y=105)  score: 0.59797454
+id: 2 coord: Point(x=470, y=98)  score: 0.47953507
+id: 3 coord: Point(x=495, y=93)  score: 0.374277
+id: 4 coord: Point(x=456, y=74)  score: 0.48623043
+id: 5 coord: Point(x=497, y=124)  score: 0.6118833
+id: 6 coord: Point(x=415, y=66)  score: 0.5377867
+id: 7 coord: Point(x=492, y=195)  score: 0.44547924
+id: 8 coord: Point(x=362, y=100)  score: 0.6507975
+id: 9 coord: Point(x=463, y=261)  score: 0.2105091
+id: 10 coord: Point(x=352, y=165)  score: 0.58617735
+id: 11 coord: Point(x=433, y=195)  score: 0.5391454
+id: 12 coord: Point(x=388, y=175)  score: 0.6136865
+id: 13 coord: Point(x=422, y=272)  score: 0.31028393
+id: 14 coord: Point(x=361, y=244)  score: 0.28630063
+id: 15 coord: Point(x=399, y=334)  score: 0.20725511
+id: 16 coord: Point(x=360, y=295)  score: 0.323748
+BB: SP: Point(x=352, y=66) EP: Point(x=497, y=334)
+SP: 352 66 EP: 497 334
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=474, y=93), score=0.5511589), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=484, y=86), score=0.5613853), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=467, y=80), score=0.4336114), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=491, y=71), score=0.3972019), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=449, y=57), score=0.50598663), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=492, y=105), score=0.5487015), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=404, y=58), score=0.6861193), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=493, y=162), score=0.44907483), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=365, y=103), score=0.694948), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=480, y=217), score=0.6413986), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=353, y=163), score=0.4402518), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=437, y=192), score=0.6552304), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=387, y=177), score=0.63521004), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=420, y=279), score=0.306977), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=354, y=240), score=0.5087849), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=401, y=338), score=0.3362194), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=354, y=296), score=0.33831507)]
+KP: Rectangle(start_point=Point(x=353, y=57), end_point=Point(x=493, y=338))
+Len(kp): 17
+id: 0 coord: Point(x=474, y=93)  score: 0.5511589
+id: 1 coord: Point(x=484, y=86)  score: 0.5613853
+id: 2 coord: Point(x=467, y=80)  score: 0.4336114
+id: 3 coord: Point(x=491, y=71)  score: 0.3972019
+id: 4 coord: Point(x=449, y=57)  score: 0.50598663
+id: 5 coord: Point(x=492, y=105)  score: 0.5487015
+id: 6 coord: Point(x=404, y=58)  score: 0.6861193
+id: 7 coord: Point(x=493, y=162)  score: 0.44907483
+id: 8 coord: Point(x=365, y=103)  score: 0.694948
+id: 9 coord: Point(x=480, y=217)  score: 0.6413986
+id: 10 coord: Point(x=353, y=163)  score: 0.4402518
+id: 11 coord: Point(x=437, y=192)  score: 0.6552304
+id: 12 coord: Point(x=387, y=177)  score: 0.63521004
+id: 13 coord: Point(x=420, y=279)  score: 0.306977
+id: 14 coord: Point(x=354, y=240)  score: 0.5087849
+id: 15 coord: Point(x=401, y=338)  score: 0.3362194
+id: 16 coord: Point(x=354, y=296)  score: 0.33831507
+BB: SP: Point(x=353, y=57) EP: Point(x=493, y=338)
+SP: 353 57 EP: 493 338
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=460, y=76), score=0.4209501), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=473, y=67), score=0.5510554), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=454, y=63), score=0.49119234), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=482, y=52), score=0.477855), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=438, y=39), score=0.6534375), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=491, y=82), score=0.74119496), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=394, y=43), score=0.7223568), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=493, y=148), score=0.67595625), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=363, y=107), score=0.6194386), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=490, y=211), score=0.5074779), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=344, y=168), score=0.6576799), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=439, y=190), score=0.7184802), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=385, y=175), score=0.75834334), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=409, y=297), score=0.38953674), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=355, y=252), score=0.52512825), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=400, y=348), score=0.5615307), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=364, y=298), score=0.32431254)]
+KP: Rectangle(start_point=Point(x=344, y=39), end_point=Point(x=493, y=348))
+Len(kp): 17
+id: 0 coord: Point(x=460, y=76)  score: 0.4209501
+id: 1 coord: Point(x=473, y=67)  score: 0.5510554
+id: 2 coord: Point(x=454, y=63)  score: 0.49119234
+id: 3 coord: Point(x=482, y=52)  score: 0.477855
+id: 4 coord: Point(x=438, y=39)  score: 0.6534375
+id: 5 coord: Point(x=491, y=82)  score: 0.74119496
+id: 6 coord: Point(x=394, y=43)  score: 0.7223568
+id: 7 coord: Point(x=493, y=148)  score: 0.67595625
+id: 8 coord: Point(x=363, y=107)  score: 0.6194386
+id: 9 coord: Point(x=490, y=211)  score: 0.5074779
+id: 10 coord: Point(x=344, y=168)  score: 0.6576799
+id: 11 coord: Point(x=439, y=190)  score: 0.7184802
+id: 12 coord: Point(x=385, y=175)  score: 0.75834334
+id: 13 coord: Point(x=409, y=297)  score: 0.38953674
+id: 14 coord: Point(x=355, y=252)  score: 0.52512825
+id: 15 coord: Point(x=400, y=348)  score: 0.5615307
+id: 16 coord: Point(x=364, y=298)  score: 0.32431254
+BB: SP: Point(x=344, y=39) EP: Point(x=493, y=348)
+SP: 344 39 EP: 493 348
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=456, y=57), score=0.5142722), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=466, y=46), score=0.4446061), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=448, y=44), score=0.45551682), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=472, y=33), score=0.5313705), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=430, y=22), score=0.6116736), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=485, y=72), score=0.825509), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=385, y=34), score=0.61140645), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=496, y=141), score=0.84846425), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=355, y=100), score=0.73820764), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=507, y=216), score=0.5872984), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=338, y=166), score=0.72703373), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=429, y=190), score=0.8498425), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=376, y=174), score=0.76550835), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=406, y=289), score=0.53863907), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=348, y=247), score=0.6713092), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=397, y=341), score=0.43303326), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=353, y=299), score=0.47752008)]
+KP: Rectangle(start_point=Point(x=338, y=22), end_point=Point(x=507, y=341))
+Len(kp): 17
+id: 0 coord: Point(x=456, y=57)  score: 0.5142722
+id: 1 coord: Point(x=466, y=46)  score: 0.4446061
+id: 2 coord: Point(x=448, y=44)  score: 0.45551682
+id: 3 coord: Point(x=472, y=33)  score: 0.5313705
+id: 4 coord: Point(x=430, y=22)  score: 0.6116736
+id: 5 coord: Point(x=485, y=72)  score: 0.825509
+id: 6 coord: Point(x=385, y=34)  score: 0.61140645
+id: 7 coord: Point(x=496, y=141)  score: 0.84846425
+id: 8 coord: Point(x=355, y=100)  score: 0.73820764
+id: 9 coord: Point(x=507, y=216)  score: 0.5872984
+id: 10 coord: Point(x=338, y=166)  score: 0.72703373
+id: 11 coord: Point(x=429, y=190)  score: 0.8498425
+id: 12 coord: Point(x=376, y=174)  score: 0.76550835
+id: 13 coord: Point(x=406, y=289)  score: 0.53863907
+id: 14 coord: Point(x=348, y=247)  score: 0.6713092
+id: 15 coord: Point(x=397, y=341)  score: 0.43303326
+id: 16 coord: Point(x=353, y=299)  score: 0.47752008
+BB: SP: Point(x=338, y=22) EP: Point(x=507, y=341)
+SP: 338 22 EP: 507 341
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=425, y=50), score=0.39810517), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=438, y=40), score=0.44717562), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=421, y=37), score=0.35344842), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=451, y=26), score=0.50341964), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=411, y=15), score=0.68751276), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=468, y=59), score=0.6803863), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=375, y=25), score=0.76594985), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=486, y=132), score=0.7233187), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=348, y=89), score=0.72896576), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=492, y=215), score=0.63203377), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=327, y=165), score=0.35822636), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=424, y=188), score=0.80511874), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=370, y=175), score=0.7974812), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=402, y=286), score=0.5859481), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=345, y=247), score=0.5671767), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=397, y=347), score=0.51274717), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=356, y=307), score=0.42847204)]
+KP: Rectangle(start_point=Point(x=327, y=15), end_point=Point(x=492, y=347))
+Len(kp): 17
+id: 0 coord: Point(x=425, y=50)  score: 0.39810517
+id: 1 coord: Point(x=438, y=40)  score: 0.44717562
+id: 2 coord: Point(x=421, y=37)  score: 0.35344842
+id: 3 coord: Point(x=451, y=26)  score: 0.50341964
+id: 4 coord: Point(x=411, y=15)  score: 0.68751276
+id: 5 coord: Point(x=468, y=59)  score: 0.6803863
+id: 6 coord: Point(x=375, y=25)  score: 0.76594985
+id: 7 coord: Point(x=486, y=132)  score: 0.7233187
+id: 8 coord: Point(x=348, y=89)  score: 0.72896576
+id: 9 coord: Point(x=492, y=215)  score: 0.63203377
+id: 10 coord: Point(x=327, y=165)  score: 0.35822636
+id: 11 coord: Point(x=424, y=188)  score: 0.80511874
+id: 12 coord: Point(x=370, y=175)  score: 0.7974812
+id: 13 coord: Point(x=402, y=286)  score: 0.5859481
+id: 14 coord: Point(x=345, y=247)  score: 0.5671767
+id: 15 coord: Point(x=397, y=347)  score: 0.51274717
+id: 16 coord: Point(x=356, y=307)  score: 0.42847204
+BB: SP: Point(x=327, y=15) EP: Point(x=492, y=347)
+SP: 327 15 EP: 492 347
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=405, y=35), score=0.36323595), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=417, y=29), score=0.5201644), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=402, y=24), score=0.31913167), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=433, y=19), score=0.534966), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=391, y=9), score=0.6323849), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=454, y=53), score=0.8637222), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=355, y=24), score=0.421933), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=460, y=126), score=0.692386), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=333, y=81), score=0.46267357), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=464, y=198), score=0.69799685), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=315, y=156), score=0.30701292), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=419, y=187), score=0.8559025), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=358, y=179), score=0.7474086), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=397, y=288), score=0.49220306), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=342, y=258), score=0.47790873), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=397, y=351), score=0.37763253), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=359, y=303), score=0.42839465)]
+KP: Rectangle(start_point=Point(x=315, y=9), end_point=Point(x=464, y=351))
+Len(kp): 17
+id: 0 coord: Point(x=405, y=35)  score: 0.36323595
+id: 1 coord: Point(x=417, y=29)  score: 0.5201644
+id: 2 coord: Point(x=402, y=24)  score: 0.31913167
+id: 3 coord: Point(x=433, y=19)  score: 0.534966
+id: 4 coord: Point(x=391, y=9)  score: 0.6323849
+id: 5 coord: Point(x=454, y=53)  score: 0.8637222
+id: 6 coord: Point(x=355, y=24)  score: 0.421933
+id: 7 coord: Point(x=460, y=126)  score: 0.692386
+id: 8 coord: Point(x=333, y=81)  score: 0.46267357
+id: 9 coord: Point(x=464, y=198)  score: 0.69799685
+id: 10 coord: Point(x=315, y=156)  score: 0.30701292
+id: 11 coord: Point(x=419, y=187)  score: 0.8559025
+id: 12 coord: Point(x=358, y=179)  score: 0.7474086
+id: 13 coord: Point(x=397, y=288)  score: 0.49220306
+id: 14 coord: Point(x=342, y=258)  score: 0.47790873
+id: 15 coord: Point(x=397, y=351)  score: 0.37763253
+id: 16 coord: Point(x=359, y=303)  score: 0.42839465
+BB: SP: Point(x=315, y=9) EP: Point(x=464, y=351)
+SP: 315 9 EP: 464 351
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=399, y=22), score=0.36858824), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=409, y=16), score=0.42900556), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=394, y=14), score=0.41724554), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=418, y=14), score=0.62611324), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=382, y=7), score=0.5321015), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=439, y=51), score=0.723356), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=348, y=26), score=0.4572788), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=457, y=114), score=0.6173216), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=326, y=76), score=0.4378574), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=456, y=191), score=0.53323597), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=314, y=144), score=0.28270108), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=408, y=184), score=0.7915075), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=352, y=175), score=0.7596736), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=398, y=263), score=0.62474406), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=343, y=250), score=0.349216), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=391, y=339), score=0.3621941), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=352, y=306), score=0.43273845)]
+KP: Rectangle(start_point=Point(x=314, y=7), end_point=Point(x=457, y=339))
+Len(kp): 17
+id: 0 coord: Point(x=399, y=22)  score: 0.36858824
+id: 1 coord: Point(x=409, y=16)  score: 0.42900556
+id: 2 coord: Point(x=394, y=14)  score: 0.41724554
+id: 3 coord: Point(x=418, y=14)  score: 0.62611324
+id: 4 coord: Point(x=382, y=7)  score: 0.5321015
+id: 5 coord: Point(x=439, y=51)  score: 0.723356
+id: 6 coord: Point(x=348, y=26)  score: 0.4572788
+id: 7 coord: Point(x=457, y=114)  score: 0.6173216
+id: 8 coord: Point(x=326, y=76)  score: 0.4378574
+id: 9 coord: Point(x=456, y=191)  score: 0.53323597
+id: 10 coord: Point(x=314, y=144)  score: 0.28270108
+id: 11 coord: Point(x=408, y=184)  score: 0.7915075
+id: 12 coord: Point(x=352, y=175)  score: 0.7596736
+id: 13 coord: Point(x=398, y=263)  score: 0.62474406
+id: 14 coord: Point(x=343, y=250)  score: 0.349216
+id: 15 coord: Point(x=391, y=339)  score: 0.3621941
+id: 16 coord: Point(x=352, y=306)  score: 0.43273845
+BB: SP: Point(x=314, y=7) EP: Point(x=457, y=339)
+SP: 314 7 EP: 457 339
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=392, y=34), score=0.3713496), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=402, y=27), score=0.40493885), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=389, y=23), score=0.31227183), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=412, y=19), score=0.54982316), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=374, y=11), score=0.5196475), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=434, y=54), score=0.7564944), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=340, y=30), score=0.46549657), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=447, y=120), score=0.76905185), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=309, y=70), score=0.36927536), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=445, y=198), score=0.6865495), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=287, y=120), score=0.22543165), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=399, y=179), score=0.7620133), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=346, y=176), score=0.7953745), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=387, y=261), score=0.60623264), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=342, y=253), score=0.45303392), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=377, y=334), score=0.35434952), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=340, y=317), score=0.405209)]
+KP: Rectangle(start_point=Point(x=287, y=11), end_point=Point(x=447, y=334))
+Len(kp): 17
+id: 0 coord: Point(x=392, y=34)  score: 0.3713496
+id: 1 coord: Point(x=402, y=27)  score: 0.40493885
+id: 2 coord: Point(x=389, y=23)  score: 0.31227183
+id: 3 coord: Point(x=412, y=19)  score: 0.54982316
+id: 4 coord: Point(x=374, y=11)  score: 0.5196475
+id: 5 coord: Point(x=434, y=54)  score: 0.7564944
+id: 6 coord: Point(x=340, y=30)  score: 0.46549657
+id: 7 coord: Point(x=447, y=120)  score: 0.76905185
+id: 8 coord: Point(x=309, y=70)  score: 0.36927536
+id: 9 coord: Point(x=445, y=198)  score: 0.6865495
+id: 10 coord: Point(x=287, y=120)  score: 0.22543165
+id: 11 coord: Point(x=399, y=179)  score: 0.7620133
+id: 12 coord: Point(x=346, y=176)  score: 0.7953745
+id: 13 coord: Point(x=387, y=261)  score: 0.60623264
+id: 14 coord: Point(x=342, y=253)  score: 0.45303392
+id: 15 coord: Point(x=377, y=334)  score: 0.35434952
+id: 16 coord: Point(x=340, y=317)  score: 0.405209
+BB: SP: Point(x=287, y=11) EP: Point(x=447, y=334)
+SP: 287 11 EP: 447 334
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=394, y=43), score=0.5423763), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=405, y=33), score=0.3895222), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=384, y=30), score=0.4922421), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=423, y=24), score=0.46005687), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=374, y=13), score=0.35549578), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=441, y=82), score=0.7077514), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=341, y=36), score=0.7045734), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=443, y=160), score=0.700693), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=325, y=102), score=0.28322327), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=441, y=246), score=0.41420114), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=305, y=166), score=0.24404912), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=395, y=203), score=0.740561), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=341, y=191), score=0.66184545), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=383, y=309), score=0.35134628), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=346, y=298), score=0.39368242), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=378, y=336), score=0.15254909), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=354, y=327), score=0.16742675)]
+KP: Rectangle(start_point=Point(x=305, y=13), end_point=Point(x=443, y=336))
+Len(kp): 17
+id: 0 coord: Point(x=394, y=43)  score: 0.5423763
+id: 1 coord: Point(x=405, y=33)  score: 0.3895222
+id: 2 coord: Point(x=384, y=30)  score: 0.4922421
+id: 3 coord: Point(x=423, y=24)  score: 0.46005687
+id: 4 coord: Point(x=374, y=13)  score: 0.35549578
+id: 5 coord: Point(x=441, y=82)  score: 0.7077514
+id: 6 coord: Point(x=341, y=36)  score: 0.7045734
+id: 7 coord: Point(x=443, y=160)  score: 0.700693
+id: 8 coord: Point(x=325, y=102)  score: 0.28322327
+id: 9 coord: Point(x=441, y=246)  score: 0.41420114
+id: 10 coord: Point(x=305, y=166)  score: 0.24404912
+id: 11 coord: Point(x=395, y=203)  score: 0.740561
+id: 12 coord: Point(x=341, y=191)  score: 0.66184545
+id: 13 coord: Point(x=383, y=309)  score: 0.35134628
+id: 14 coord: Point(x=346, y=298)  score: 0.39368242
+id: 15 coord: Point(x=378, y=336)  score: 0.15254909
+id: 16 coord: Point(x=354, y=327)  score: 0.16742675
+BB: SP: Point(x=305, y=13) EP: Point(x=443, y=336)
+SP: 305 13 EP: 443 336
+KP: [KeyPoint(body_part=<BodyPart.NOSE: 0>, coordinate=Point(x=418, y=37), score=0.46457195), KeyPoint(body_part=<BodyPart.LEFT_EYE: 1>, coordinate=Point(x=426, y=28), score=0.4827747), KeyPoint(body_part=<BodyPart.RIGHT_EYE: 2>, coordinate=Point(x=412, y=26), score=0.32930738), KeyPoint(body_part=<BodyPart.LEFT_EAR: 3>, coordinate=Point(x=430, y=29), score=0.41356087), KeyPoint(body_part=<BodyPart.RIGHT_EAR: 4>, coordinate=Point(x=399, y=20), score=0.41067034), KeyPoint(body_part=<BodyPart.LEFT_SHOULDER: 5>, coordinate=Point(x=451, y=83), score=0.67320114), KeyPoint(body_part=<BodyPart.RIGHT_SHOULDER: 6>, coordinate=Point(x=354, y=42), score=0.55371255), KeyPoint(body_part=<BodyPart.LEFT_ELBOW: 7>, coordinate=Point(x=453, y=177), score=0.6969627), KeyPoint(body_part=<BodyPart.RIGHT_ELBOW: 8>, coordinate=Point(x=334, y=104), score=0.37764582), KeyPoint(body_part=<BodyPart.LEFT_WRIST: 9>, coordinate=Point(x=436, y=260), score=0.49385342), KeyPoint(body_part=<BodyPart.RIGHT_WRIST: 10>, coordinate=Point(x=311, y=165), score=0.45931372), KeyPoint(body_part=<BodyPart.LEFT_HIP: 11>, coordinate=Point(x=404, y=211), score=0.6828855), KeyPoint(body_part=<BodyPart.RIGHT_HIP: 12>, coordinate=Point(x=350, y=202), score=0.7111738), KeyPoint(body_part=<BodyPart.LEFT_KNEE: 13>, coordinate=Point(x=392, y=318), score=0.4211861), KeyPoint(body_part=<BodyPart.RIGHT_KNEE: 14>, coordinate=Point(x=352, y=303), score=0.5123554), KeyPoint(body_part=<BodyPart.LEFT_ANKLE: 15>, coordinate=Point(x=395, y=343), score=0.16456199), KeyPoint(body_part=<BodyPart.RIGHT_ANKLE: 16>, coordinate=Point(x=359, y=331), score=0.22288738)]
+KP: Rectangle(start_point=Point(x=311, y=20), end_point=Point(x=453, y=343))
+Len(kp): 17
+id: 0 coord: Point(x=418, y=37)  score: 0.46457195
+id: 1 coord: Point(x=426, y=28)  score: 0.4827747
+id: 2 coord: Point(x=412, y=26)  score: 0.32930738
+id: 3 coord: Point(x=430, y=29)  score: 0.41356087
+id: 4 coord: Point(x=399, y=20)  score: 0.41067034
+id: 5 coord: Point(x=451, y=83)  score: 0.67320114
+id: 6 coord: Point(x=354, y=42)  score: 0.55371255
+id: 7 coord: Point(x=453, y=177)  score: 0.6969627
+id: 8 coord: Point(x=334, y=104)  score: 0.37764582
+id: 9 coord: Point(x=436, y=260)  score: 0.49385342
+id: 10 coord: Point(x=311, y=165)  score: 0.45931372
+id: 11 coord: Point(x=404, y=211)  score: 0.6828855
+id: 12 coord: Point(x=350, y=202)  score: 0.7111738
+id: 13 coord: Point(x=392, y=318)  score: 0.4211861
+id: 14 coord: Point(x=352, y=303)  score: 0.5123554
+id: 15 coord: Point(x=395, y=343)  score: 0.16456199
+id: 16 coord: Point(x=359, y=331)  score: 0.22288738
+BB: SP: Point(x=311, y=20) EP: Point(x=453, y=343)
+SP: 311 20 EP: 453 343
+

@@ -1,0 +1,6 @@
+gunicorn==20.1.0
+Flask==2.0.2
+google-cloud-storage
+opencv-python
+imutils
+werkzeug==2.0.2

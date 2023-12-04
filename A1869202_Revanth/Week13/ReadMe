@@ -1,0 +1,42 @@
+---------------------------------------------------------------------- Updates Made: (For Kaifeng, to have a look and for understanding) ----------------------------------------------------------------------
+
+# In Faces_2_RoomExit_V2.py -> Faces_2_RoomExit_V3.py (In this week 13)
+    - **Install "pip install deepface", after installing open file named "MediapipeWrapper.py" and do following changes "Just to add `img = img.astype("uint8")` first line under  `detect_faces(....)` function. (Look Screenshoot 'MANDATORY CHANGE" under "Result screenshots for reference".**
+ 
+    - This function like Previously it takes, Patients_Images folder (Location where reference patients images is stored), from there it checks whether
+    there exists a file named "representations_facenet512.pkl" (Which stores encodings of faces), if exists it runs otherwise, it creates it. But images should be there in that patient folder.
+    - It takes Patients_Images folder (Which contains frames/Images, not Cropped Faces anymore). 
+    
+
+    CHANGES MADE:
+    # 1. In thread 2 the code is modified to use, DeepFace.
+    # 2. Argsparse is changed in main. 
+    # So update Thread 2 related code and main function
+
+
+
+# Remove Previously used mediapipe based faces detection from video. Just use Video2ImageConvertor.py
+    - So this just converts video of patient into frames/images not faces. 
+    - Above code (Faces_2_RoomExit_V3.py) will take care of converting reference images -> Patients_Images into faces and it will store face values in form of "representations_facenet512.pkl"
+    - whenever the changes are made: Patient in room 1 is updated with new patient, then Do in this order only:
+        - First, Delete the images in current folder (Dont delete folder itself).
+        - Run this Video2ImageConvertor.py file
+        - Then delete Previously existing "representations_facenet512.pkl" file, deleting this will not cause any errors. So you can delete this file. whenever patient in room is changed. 
+        - Above code (Faces_2_RoomExit_V3.py) will create itself if it doesnt find "representations_facenet512.pkl" file.
+
+    - The output of running this program should create images/frames of patient (Not faces anymore). So when we run this it should create a folder like "Patients_Images\room_no\1...n" -> "Patients_Images\0\1_to_n_images.jpg"
+    - If you want to directly use specific patient folder itself instead of this (means passing whole directory of Patient_Videos/room_no.mp4 like Patient_Videos/0_to_n.mp4 patient videos), you might have adapted this code Previously for cloud usage to just pass particular mp4 file rather than entire directory.
+
+
+-------------------------------------------------------------------------------------- OVERALL FLOW -----------------------------------------------------------------------------------------
+
+- Whenever the new patient is added/existing patient is updated in same room no, 
+    - 1. Delete all the images only (DONT DELETE FOLDER ITSELF), remove all existing images in that room_no.
+    - 2. run "Video2ImageConvertor.py" file (trigger this code) -> This will create images files under that folder (Patients_Images/room_no)
+    - 3. Then delete existing "representations_facenet512.pkl" file. (Dont worry just delete, this file will automatically will be created, if it doesnt exist - Faces_2_RoomExit_V3.py takes care of creating)
+        (Because Faces_2_RoomExit_V3 will always be running, when it cannot see "representations_facenet512.pkl" it will create new one immediately, and then continues its process)
+
+- Update the code of Faces_2_RoomExit_V2 to Faces_2_RoomExit_V3, thread 2 code is completely changed. Please have a double look over changes. (Main function is also changed).
+
+
+I didn't upload Videos/Images But left folder structure, to give better folder structure clarity (See Result Screenshots for reference folder)

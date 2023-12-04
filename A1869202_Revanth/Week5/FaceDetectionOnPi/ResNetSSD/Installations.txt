@@ -1,0 +1,19 @@
+Libraries I have Installed: 
+    1. pip install opencv-python / sudo apt-get install libopencv-dev python3-opencv
+    2. pip install imutils
+    3. pip install argparse
+    4. pip install pickle-mixin (pip install pickle is not working)
+    5. pip install scikit-learn
+    6. pip install numpy
+    sudo apt-get install vokoscreen
+
+sudo apt update
+sudo apt dist-upgrade
+sudo apt install cpufrequtils
+cpufreq-info
+cpufreq-info -s -m
+watch -n 1 vcgencmd measure_clock arm (Measure freq)
+sudo nano /boot/config.txt
+
+wget https://github.com/keyurr2/face-detection/blob/master/res10_300x300_ssd_iter_140000.caffemodel
+wget https://github.com/keyurr2/face-detection/blob/20884cfc72638a16b8982076073c742fb2fb84f5/deploy.prototxt.txt

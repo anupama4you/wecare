@@ -1,0 +1,26 @@
+1. First change the clock settings in pi - 600 MHz to 1200 Mhz (lscpu and sudo nano /boot/config.txt)
+
+# 1. To run mediapipe - blazepose
+    2. pip3 install mediapipe
+    3. pip3 install imutils
+    cmd: python3 poseEstimation.py
+
+
+# 2. To run "chainer-pose-proposal"
+    4. cd chainer-pose-proposal-net-1.0
+    5. pip3 install chainer chainercv
+    6. cd chainer-pose-proposal-net-1.0
+    5. python3 video.py ../result/resnet18_224x224_coco
+
+# 3. To Run "pose_estimation_pi"
+    $ cd ~/pose_estimation_pi
+    $ python3 pose_estimation.py --camera_type=usb_cam
+
+# For TFLITE:
+    1. pip3 install --upgrade tflite-support==0.4.2
+    2. pip3 install --upgrade tflite-runtime==2.11.0
+
+# 4. For TFLITE/MOVENET LIGHTENING
+    - download/copy the folder "https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/raspberry_pi"
+    - sh setup.sh
+    - python3 pose_estimation.py

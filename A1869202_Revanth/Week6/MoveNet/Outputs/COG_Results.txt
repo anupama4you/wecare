@@ -1,0 +1,999 @@
+In Lower: RIGHT_KNEE
+CoG Whole Body: (418, 244), CoG Upper Body: (443, 262), CoG Lower Body: (316, 174)
+Whole: 87840
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: RIGHT_HIP
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (118, 159), CoG Upper Body: (52, 154), CoG Lower Body: (315, 173)
+Whole: 57240
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (52, 172), CoG Upper Body: (52, 159), CoG Lower Body: (50, 207)
+Whole: 61920
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (44, 194), CoG Upper Body: (52, 163), CoG Lower Body: (36, 224)
+Whole: 69840
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (209, 172), CoG Upper Body: (117, 169), CoG Lower Body: (319, 176)
+Whole: 61920
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (157, 159), CoG Upper Body: (50, 148), CoG Lower Body: (318, 176)
+Whole: 57240
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (48, 189), CoG Upper Body: (51, 163), CoG Lower Body: (42, 235)
+Whole: 68040
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (47, 184), CoG Upper Body: (52, 164), CoG Lower Body: (38, 223)
+Whole: 66240
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (49, 183), CoG Upper Body: (52, 158), CoG Lower Body: (44, 229)
+Whole: 65880
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (44, 189), CoG Upper Body: (46, 167), CoG Lower Body: (41, 221)
+Whole: 68040
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (224, 155), CoG Upper Body: (153, 144), CoG Lower Body: (319, 170)
+Whole: 55800
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (269, 191), CoG Upper Body: (229, 207), CoG Lower Body: (317, 172)
+Whole: 68760
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (503, 307), CoG Upper Body: (479, 329), CoG Lower Body: (544, 271)
+Whole: 110520
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (500, 282), CoG Upper Body: (468, 309), CoG Lower Body: (554, 238)
+Whole: 101520
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (476, 286), CoG Upper Body: (438, 302), CoG Lower Body: (539, 260)
+Whole: 102960
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (447, 223), CoG Upper Body: (423, 199), CoG Lower Body: (493, 269)
+Whole: 80280
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: RIGHT_KNEE
+CoG Whole Body: (401, 177), CoG Upper Body: (405, 159), CoG Lower Body: (386, 245)
+Whole: 63720
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (403, 187), CoG Upper Body: (404, 147), CoG Lower Body: (401, 268)
+Whole: 67320
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (392, 183), CoG Upper Body: (392, 147), CoG Lower Body: (391, 249)
+Whole: 65880
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (390, 146), CoG Upper Body: (385, 105), CoG Lower Body: (399, 219)
+Whole: 52560
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (386, 112), CoG Upper Body: (381, 69), CoG Lower Body: (396, 191)
+Whole: 40320
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (393, 95), CoG Upper Body: (390, 46), CoG Lower Body: (399, 186)
+Whole: 34200
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (399, 95), CoG Upper Body: (397, 39), CoG Lower Body: (404, 197)
+Whole: 34200
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (405, 98), CoG Upper Body: (403, 40), CoG Lower Body: (410, 204)
+Whole: 35280
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (404, 95), CoG Upper Body: (403, 38), CoG Lower Body: (405, 199)
+Whole: 34200
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (402, 96), CoG Upper Body: (400, 41), CoG Lower Body: (407, 197)
+Whole: 34560
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (401, 95), CoG Upper Body: (399, 39), CoG Lower Body: (406, 198)
+Whole: 34200
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+CoG Whole Body: (401, 90), CoG Upper Body: (401, 45), CoG Lower Body: (403, 191)
+Whole: 32400
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (405, 99), CoG Upper Body: (404, 41), CoG Lower Body: (407, 206)
+Whole: 35640
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (405, 104), CoG Upper Body: (403, 48), CoG Lower Body: (408, 205)
+Whole: 37440
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (404, 102), CoG Upper Body: (401, 49), CoG Lower Body: (410, 199)
+Whole: 36720
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (403, 107), CoG Upper Body: (398, 52), CoG Lower Body: (412, 206)
+Whole: 38520
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (404, 134), CoG Upper Body: (404, 82), CoG Lower Body: (402, 230)
+Whole: 48240
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+CoG Whole Body: (412, 193), CoG Upper Body: (414, 161), CoG Lower Body: (407, 262)
+Whole: 69480
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (423, 270), CoG Upper Body: (419, 262), CoG Lower Body: (431, 283)
+Whole: 97200
+--------------- Fall Detected ---------------
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (321, 158), CoG Upper Body: (322, 142), CoG Lower Body: (320, 171)
+Whole: 56880
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (388, 210), CoG Upper Body: (432, 234), CoG Lower Body: (321, 176)
+Whole: 75600
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (401, 225), CoG Upper Body: (432, 244), CoG Lower Body: (321, 176)
+Whole: 81000
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (450, 265), CoG Upper Body: (449, 251), CoG Lower Body: (457, 342)
+Whole: 95400
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (49, 171), CoG Upper Body: (50, 158), CoG Lower Body: (48, 207)
+Whole: 61560
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EAR
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+CoG Whole Body: (49, 179), CoG Upper Body: (53, 152), CoG Lower Body: (44, 216)
+Whole: 64440
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (392, 201), CoG Upper Body: (434, 219), CoG Lower Body: (322, 170)
+Whole: 72360
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (456, 261), CoG Upper Body: (460, 238), CoG Lower Body: (446, 332)
+Whole: 93960
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (459, 254), CoG Upper Body: (460, 234), CoG Lower Body: (453, 345)
+Whole: 91440
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: RIGHT_ELBOW
+In Upper: RIGHT_WRIST
+In Lower: LEFT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (451, 263), CoG Upper Body: (448, 240), CoG Lower Body: (460, 335)
+Whole: 94680
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (51, 176), CoG Upper Body: (53, 159), CoG Lower Body: (49, 214)
+Whole: 63360
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (47, 193), CoG Upper Body: (54, 161), CoG Lower Body: (42, 217)
+Whole: 69480
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (426, 244), CoG Upper Body: (473, 243), CoG Lower Body: (322, 248)
+Whole: 87840
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (426, 260), CoG Upper Body: (446, 241), CoG Lower Body: (382, 301)
+Whole: 93600
+--------------- Fall Detected ---------------
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (397, 244), CoG Upper Body: (414, 214), CoG Lower Body: (360, 311)
+Whole: 87840
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (352, 254), CoG Upper Body: (350, 214), CoG Lower Body: (357, 326)
+Whole: 91440
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+CoG Whole Body: (308, 231), CoG Upper Body: (292, 193), CoG Lower Body: (344, 316)
+Whole: 83160
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (287, 197), CoG Upper Body: (260, 153), CoG Lower Body: (336, 279)
+Whole: 70920
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (269, 175), CoG Upper Body: (238, 123), CoG Lower Body: (326, 270)
+Whole: 63000
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (261, 169), CoG Upper Body: (242, 107), CoG Lower Body: (297, 282)
+Whole: 60840
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (247, 173), CoG Upper Body: (234, 104), CoG Lower Body: (271, 300)
+Whole: 62280
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (247, 176), CoG Upper Body: (238, 108), CoG Lower Body: (264, 302)
+Whole: 63360
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+In Lower: LEFT_ANKLE
+In Lower: RIGHT_ANKLE
+CoG Whole Body: (218, 183), CoG Upper Body: (207, 119), CoG Lower Body: (238, 301)
+Whole: 65880
+In Upper: NOSE
+In Upper: LEFT_EYE
+In Upper: RIGHT_EYE
+In Upper: LEFT_EAR
+In Upper: RIGHT_EAR
+In Upper: LEFT_SHOULDER
+In Upper: RIGHT_SHOULDER
+In Upper: LEFT_ELBOW
+In Upper: RIGHT_ELBOW
+In Upper: LEFT_WRIST
+In Upper: RIGHT_WRIST
+In Lower: LEFT_HIP
+In Lower: RIGHT_HIP
+In Lower: LEFT_KNEE
+In Lower: RIGHT_KNEE
+CoG Whole Body: (204, 155), CoG Upper Body: (193, 104), CoG Lower Body: (233, 294)
+Whole: 55800

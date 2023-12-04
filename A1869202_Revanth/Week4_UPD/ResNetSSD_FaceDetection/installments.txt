@@ -1,0 +1,7 @@
+Libraries I have Installed: 
+    1. pip install opencv-python
+    2. pip install imutils
+    3. pip install argparse
+    4. pip install pickle-mixin (pip install pickle is not working)
+    5. pip install scikit-learn
+    6. pip install numpy

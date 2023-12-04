@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503315913339",
+    "firebase_url": "https://watchdog-gamma-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "watchdog-gamma",
+    "storage_bucket": "watchdog-gamma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503315913339:android:6f624fcfe8c5a5a87420de",
+        "android_client_info": {
+          "package_name": "com.uniadelaide.mws.watchdog_correct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503315913339-s7jqfphdjr282ofl31ae0j1k19oddb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_4IJVC85vCLo704h9qH4sXa9AWljNbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503315913339-ln23dlbleev6bg8r5ueu5qod40gsu6k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

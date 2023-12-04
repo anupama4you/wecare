@@ -1,0 +1,11 @@
+{
+  "private": {
+    "key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgDRBj3sYkdpM4\\n11NXWos9HD9Ezd2q58PmpzXH8NvfveaxBnypRL7oiNVybk66QHy75arb2bLKJQ6d\\ng1eho0vxACimEvkzamXk5o2mL5lUM8aBvVyMoCVosNWGt7HAjyI05j+ZmaE97L4H\\nQYwWYJeX0GhBkh3uYvD4Lvz15IUVrbfhvxrroFelQBDVrF4sb/e21AZUdI/98Oed\\nfrShvsa513wv+G4R8Y2So7eYAnrprLNxTmZm/IiUnCYsbtovYCDWA9rmA1K1IhxA\\n+ofmLJUlWT4xld0V8c2HvXWmMasdv2Nm3cekEo2AJXUPB0BNYhgA2LVnkzSB57z5\\nSLyb7QbfAgMBAAECggEABStH/YXePGkf7GfLXHCSVc6ZBxVYz+CY/HFPJFXCPN88\\nu0jTB3S2ktbVVdaFqnZialNaJchX/6HrPGcTVn9V+TFvvqUharZBs44+Jl9iwjaP\\nld6wi+4F7uxlgL4sM60ZtO66+Og6eBtGJxS0DrAbzzzXquucFSvjM1aiL2oeR+m3\\nCUkEsXcZfeWGdxZnUgQAQP+Kxs3gXIb0CUOqkMcTPU5Usp5FgNurP6SdH7rO4oOq\\nD5vTIEFcUbNhzgTM/oyvvjSnjuDdSFg6RkXqqWKKQU4+Ykfl1nujwwr2n+PDIw+9\\nVFccETlgygYWhpXKHm/FKI9kvwd0UepGKr1dXrEDgQKBgQD/qH2XZFNS6IVs2Fj8\\neXyhGzHyGBRCbt88uVMKz3i4A4qFjEXgxb4SDxsfqlGyRO7z0clmFjTd+7vlyFLw\\nwuydGufYm8eOAN3hFAiSsAtHgkJqJpy+etnstJ7ar8c9On7pknnqwcMf6GOOmESc\\nI0qz0lQjjFna/f8ZoDvZRB0fpwKBgQDgWcEtxlHvkuf0eng4/j1zj3oo1VLmNcnI\\np0TAGG4DImUBUJIF/svYadJIodmnPANoYZIVS/Tx3gGFO7XQebYsjaqcGsEou3Xn\\nc1i9y5k8u2K7kra6pa3Y67dhlzJh5XlMcMKbz8ejMlw4TApPeFUW62B0UxAlz/+m\\nj/ydk68GCQKBgBL1b7rWWceALsTPlmnCqJdZ6O5HEtmKV0utgpb+o7khqhgVOulc\\nQKgeLqi+fKh3rDCwkfrcEreTf2+e12e7TMipwh+yDa5eKhYS4j/ehjebVUmB64XE\\nnnyLOGyHNIM530d68UeTbuDi3t8oM45Qn62OH2czdUZkJ5LC6y1Fe9NpAoGAba5z\\nqxVR6XZAwF0/eV2SXXS/nEbuiG2zgM2F5wQKhK3EA6iIOzYeImdZzviRmBjW8akB\\n6jeAQN7wj1ppwMpALff0eOz7khZTxhu2PtPSzsYtttY7T3TAUVSsCqIIl6PAcYaP\\nHe2vBDISs9M5FzEVKGdaeIRDWLkfmya5sbAJ2UECgYB21ICLLt8YmCHMRnHxaJwV\\nh7K3hFxRhIL1G2+rVFKeDAI0gYClh5Fv/F3aBiAPRfF2GEQD7Fq+pSlVQNogJyqj\\nsXlE1y5NpcNncI9dPeUiB7pZFzQwns1AmK6AD0W+zCR7A9kQNA9AlcifHxnvMq/g\\n6mpjYPlO0gHoBWhBdB+WNg==\\n-----END PRIVATE KEY-----\\n"
+  },
+  "project": {
+    "id": "watchdog-gamma"
+  },
+  "client": {
+    "email": "firebase-adminsdk-nbg3v@watchdog-gamma.iam.gserviceaccount.com"
+  }
+}
